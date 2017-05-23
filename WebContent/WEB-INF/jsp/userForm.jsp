@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">com
 <title>Registration Page</title>
-<p1>Welcome To Registration Page...</p2>
+<p1>Welcome To Registration Page...!!</p1>
 </head>
 <body>
 
